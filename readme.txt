@@ -5,4 +5,4 @@ Push to origin master.
 Creating a new branch is quick.
 Creat a new branch is a quick and method.  Aa
 Delete something.
-Add something and merge without no-ff
+Add something and merge without no-ff.
