@@ -3,3 +3,4 @@ Git is a free software distributed under the GPL.
 Just add something.
 Push to origin master.
 Creating a new branch is quick.
+Creat a new branch is a quick method.
