@@ -31,7 +31,7 @@
 *.out
 *.app
 
-#Myownrules
+# Myownrules
 others
 gitskill
 *.Ds_Store
