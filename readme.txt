@@ -12,3 +12,4 @@ Fixed something new called issue-101.
 Fixed something new called issue-101.
 Git stash one time.
 >>>>>>> devc
+Add something news for tag.
